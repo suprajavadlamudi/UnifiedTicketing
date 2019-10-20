@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "752974741341",
+    "firebase_url": "https://team06-fbb84.firebaseio.com",
+    "project_id": "team06-fbb84",
+    "storage_bucket": "team06-fbb84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752974741341:android:a3e06ae53a912a41c732b4",
+        "android_client_info": {
+          "package_name": "com.example.unifiedticketing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752974741341-fvn8q4jritculo1p4cqjkogeju4kuk9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1D-riZ8AfIxKFdkm0ugMaabjA6bCBuoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752974741341-fvn8q4jritculo1p4cqjkogeju4kuk9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

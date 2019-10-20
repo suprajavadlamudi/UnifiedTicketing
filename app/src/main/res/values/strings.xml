@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Unified Ticketing System</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="min_password">Minimum length of password is 6</string>
+    <string name="authentication_failed">Authentication Failed</string>
+    <string name="min_pwd">Length of password is too short</string>
+
+    <string name="tutorial">Tutorial</string>
+    <string name="description">description</string>
+    <string name="articles">Articles</string>
+    <string name="faq">F.A.Q</string>
+    <string name="quiz">Quiz</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="general">General</string>g
+    <string name="specific">Project specific</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="contact_us">Contact us</string>
+    <string name="help">Help</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="got_it">GOT IT</string>
+    <string name="from">PTC</string>
+    <string name="to">LBN</string>
+</resources>
